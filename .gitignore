@@ -11,8 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-package.json
-package-lock.json
+
 
 # Editor directories and files
 .vscode/*
@@ -24,3 +23,7 @@ package-lock.json
 *.njsproj
 *.sln
 *.sw?
+# .gitignore
+node_modules
+package.json
+package-lock.json
